@@ -1,12 +1,12 @@
-@use "github" as *;
+@use "everblush" as *;
 
 @function wildcard($class) {
   @return '[class*="' + $class + '_"]';
 }
 
-$bg0: $black;
-$bg1: $gray9;
-$bg2: $gray8;
+$bg0: $gray5;
+$bg1: $black;
+$bg2: $black;
 $border-color: $gray6;
 $border: 1px solid $border-color;
 $top-bar-height: 48px;

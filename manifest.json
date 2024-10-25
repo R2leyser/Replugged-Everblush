@@ -8,14 +8,8 @@
     "github": "R2leyser"
   },
   "version": "1.0.0",
-  "updater": {
-    "type": "store",
-    "id": "dev.r2leyser.Everblush"
-  },
   "license": "MIT",
   "type": "replugged-theme",
   "main": "src/main.scss",
-  "source": "https://github.com/R2leyser/Replugged-Everblush",
-  "image": [
-  ]
+  "source": "https://github.com/R2leyser/Replugged-Everblush"
 }

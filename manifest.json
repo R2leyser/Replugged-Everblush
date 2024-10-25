@@ -1,0 +1,21 @@
+{
+  "id": "dev.r2leyser.Everblush",
+  "name": "Everblush",
+  "description": "A theme for repplugged that is inspired by the colors of the Everblush colorscheme for neovim.",
+  "author": {
+    "name": "Lia Leyser",
+    "discordID": "338332785913626628",
+    "github": "R2leyser"
+  },
+  "version": "1.0.0",
+  "updater": {
+    "type": "store",
+    "id": "dev.r2leyser.Everblush"
+  },
+  "license": "MIT",
+  "type": "replugged-theme",
+  "main": "src/main.scss",
+  "source": "https://github.com/R2leyser/Replugged-Everblush",
+  "image": [
+  ]
+}
